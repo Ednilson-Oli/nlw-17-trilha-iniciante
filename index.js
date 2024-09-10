@@ -2,16 +2,15 @@
 let meta = {
     value:  "Ler um livro todo mês",
     checked: false,
-    log:(info)=>{
-        console.log(info)
+ 
+}
+
+//array de objetos que representam metas
+let metas = [
+    meta,
+    {
+        value : "caminhar 20 minutos todos os dias",
+        checked: false
     }
-}
-meta.value = "Não é mais um livro"
-meta.log(meta.value)
-
-//function
-const criarMeta = ()=>{
-
-}
-
-// function criarMeta(){}
+]
+console.log(metas[1].value)
