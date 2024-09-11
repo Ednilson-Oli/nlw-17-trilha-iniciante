@@ -53,3 +53,6 @@ Apresentar os dados
 -[x] Criação, passar argumento
 -[x] Excutar
 -[x] Arrow function / named function
+
+# Estrutura de repetição
+- [x] While
