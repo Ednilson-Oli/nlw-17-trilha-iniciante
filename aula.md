@@ -55,4 +55,9 @@ Apresentar os dados
 -[x] Arrow function / named function
 
 # Estrutura de repetição
+
 - [x] While
+
+# Condicionais 
+
+- [x] switch
